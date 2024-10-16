@@ -1,0 +1,23 @@
+
+ubntu commands......
+
+how to update node version?
+First, clear the npm cache by running the command npm cache clean -f
+Then, install n, Node's version manager, by running sudo npm install -g n
+Next, update Node.js to the latest version by running sudo n latest
+
+
+npm cache clean -f
+sudo npm install -g n
+sudo n latest
+
+Terminal vs Command Prompt
+Ubuntu uses forward slashes (/) 
+whereas Windows uses backslashes (\).
+ Ubuntu uses Unix-style line endings (LF)
+ Windows-style line endings (CRLF).
+ 
+how to push github on ubntu?
+Git Installation: sudo apt-get install git
+Git Commands: The Git commands themselves are the same across both Ubuntu and Windows. You can use the same commands to add, commit, push, and pull changes.
+GitHub Integration: Both Ubuntu and Windows can integrate with GitHub using the same methods, such as HTTPS or SSH.
